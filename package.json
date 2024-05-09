@@ -1,0 +1,10 @@
+{
+  "name": "self study",
+  "version": "0.1.0",
+  "scripts": {
+    "serve": "docsify serve"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
