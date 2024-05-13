@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "rustc main": "rustc main.rs",
+    "main": "main"
+  }
+}
