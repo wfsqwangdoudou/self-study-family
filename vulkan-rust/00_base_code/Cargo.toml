@@ -1,0 +1,12 @@
+[package]
+name = "base_code"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+vulkano = "0.11.1"
+vulkano-shaders = "0.11.1"
+image = "0.20.1"
+vulkano-win = "0.11.1"
+winit = "0.18.0"
+cgmath = "0.17.0"
