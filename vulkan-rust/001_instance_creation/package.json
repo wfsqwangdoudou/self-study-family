@@ -1,8 +1,0 @@
-{
-  "scripts": {
-    "check": "cargo check",
-    "run": "cargo run",
-    "build-debug": "cargo build",
-    "build-release": "cargo build --release"
-  }
-}

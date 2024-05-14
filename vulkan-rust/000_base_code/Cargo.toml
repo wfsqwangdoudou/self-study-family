@@ -1,8 +1,0 @@
-[package]
-name = "base_code"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-vulkano = "0.11.1"
-winit = "0.18.0"
