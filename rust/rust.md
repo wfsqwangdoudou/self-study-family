@@ -7,7 +7,7 @@
 
 灰色反映的是时间效率，越短代表性能越好，棕色则是基于执行时间和内存开销的加权值
 
-<img src="./imgs/the_benchmarks_game.png" alt="the_benchmarks_game" style="zoom:50%;" />
+<img src="rust/imgs/the_benchmarks_game.png" alt="the_benchmarks_game" style="zoom:50%;" />
 
 可见 C、C++ 和 Rust 的执行时间表现出了遥遥领先，都是1秒左右，其他编程语言至少2秒以上了。
 
@@ -17,4 +17,4 @@
 
 [Final-ONCD-Technical-Report.pdf](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 
-<img src="./imgs/part.png" alt="the_benchmarks_game" style="zoom:50%;" />
+<img src="rust/imgs/part.png" alt="the_benchmarks_game" style="zoom:50%;" />
