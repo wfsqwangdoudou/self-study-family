@@ -12,7 +12,7 @@ Rust，当今程序员存亡之道，不可不学。
 
 <img src="rust/imgs/the_benchmarks_game.png" alt="the_benchmarks_game" style="zoom:50%;" />
 
-可见 C、C++ 和 Rust 的执行时间表现出了遥遥领先，都是1秒左右，其他编程语言至少2秒以上了。
+可见 C、C++ 和 Rust 的执行时间表现出了遥遥领先，都是 1秒 左右，其他编程语言 至少 2秒 以上了。
 
 2. Rust 内存安全 遥遥领先
 
@@ -20,4 +20,4 @@ Rust，当今程序员存亡之道，不可不学。
 
 [Final-ONCD-Technical-Report.pdf](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 
-<img src="rust/imgs/part.png" alt="the_benchmarks_game" style="zoom:50%;" />
+<img src="rust/imgs/part.png" alt="the_benchmarks_game" style="zoom:75%;" />
