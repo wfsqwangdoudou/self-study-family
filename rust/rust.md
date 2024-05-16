@@ -18,4 +18,4 @@ Rust 对于 当今程序员，相当于 必升职加薪，相当于 35岁后高�
 
     - [Final-ONCD-Technical-Report.pdf](https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf)
 
-    <img src="rust/imgs/part.png" alt="the_benchmarks_game" style="zoom:75%;" />
+    <img src="rust/imgs/part.png" alt="the_benchmarks_game" style="zoom:50%;" />
